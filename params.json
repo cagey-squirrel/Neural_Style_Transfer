@@ -1,0 +1,15 @@
+{
+    "content_image_path" : "style_images_examples/dzim.jpg",
+    "style_image_path" : "style_images_examples/edtaonisl.jpg",
+    "num_iterations" : 5000,
+    "learning_rate" : 1e2,
+    "content_loss_weight" : 0e0,
+    "style_loss_weight" : 1e8,
+    "loss_treshold" : -1,
+    "style_loss_layer_weight" : 1,
+    "output_dir_path" : "output",
+    "save_freq" : 100,
+    "content_layer_index" : 21,
+    "style_layer_indices" : [12, 21, 30],
+    "initial_image" : "random"
+}

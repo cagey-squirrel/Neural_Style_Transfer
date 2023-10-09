@@ -1,0 +1,5 @@
+output/
+*.jpg
+*.pyc
+*.png
+test.py
